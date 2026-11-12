@@ -1,0 +1,5 @@
+.env
+.istoria-media/
+.openai/local*
+dist/
+node_modules/
