@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `progress_account_lesson` ON `progress` (`account_id`,`lesson_id`);
